@@ -1,0 +1,15 @@
+--------------
+FUncionário RH
+
+login: aline
+senha: 123
+---------------
+Gestor
+
+login: alana
+senha: 123456
+---------------
+Funcionário
+
+login: luan
+senha: 123

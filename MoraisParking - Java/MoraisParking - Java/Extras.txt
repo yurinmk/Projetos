@@ -1,0 +1,5 @@
+Adicionei o Window Builder 1.9.3 para fazer as telas
+
+https://download.eclipse.org/windowbuilder/latest/
+
+Adicionei o Jaspersoft Studio 6.12.2 como extensão no Marketplace para gerar os relatórios
