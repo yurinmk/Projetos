@@ -10,4 +10,4 @@
 ### Projeto em Python feito pelo grupo:
 
 #### Yuri Christian Carvalho Costa
-#### Ericleito Gomes de Macedo
+#### Ericleiton Gomes de Macedo
